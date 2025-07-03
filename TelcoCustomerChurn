@@ -1,4 +1,4 @@
-mport pandas as pd
+import pandas as pd
 telco_churn = pd.read_csv("Telco-Customer-Churn.csv")
 print(telco_churn)
 
